@@ -64,3 +64,7 @@
 ## イテレーション7処理分
 - done: #035 アパレルPLM(UA6dFrit)、#036 ペンテスト(f1rwQmt6)、#037 ビルドパック(PsZ2P0Yb)、#038 AI画像動画(rga0ErjW)
 - 残pending: ヘルスケアSaaS+代理店(qsAxDnUr)、ファンド投資管理(wbwy2jWc)、ファッションAIビジュアル(JWPZd7fS)、Ag-tech(nvqesxbd)、トレーディングアルゴ(8FLDQTHD)、デジタル代理店(ngTAGF3W)
+
+## イテレーション8処理分
+- done: #039 医療マーケCRM(qsAxDnUr)、#040 ファッションAI(JWPZd7fS)、#041 ファンドPF(wbwy2jWc)、#042 Ag-tech(nvqesxbd)、#043 アルゴ(8FLDQTHD)、#044 セルビア代理店(ngTAGF3W)
+- キュー空。残り6件は検索補充（候補: veterinary / HOA / church / salon / insurance / inventory / logistics残り）
