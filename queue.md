@@ -60,3 +60,7 @@
 - /startup/m2VbW8WGJxazesQRudC30asFlzC2/GuUmrecKWmWtlTUBcL4b | ヘルステック開発+EHR統合 | $3.3M/$888k | $3.3M | pending（規模外・低優先）
 - /startup/FUkuHyuaXkcdtUpf7NqjXRJtzW02/JWPZd7fSnJj33TJWaIuA | ファッションB2B AIビジュアル | $100k/$70k | $247k | pending
 - カード段階スキップ: med spaコンテンツ $54k/-$28k、クリニックネットワーク $60k/$30k（怪）、スキンケアEC、GLP-1(済)、ウェルネスEC $2.6M
+
+## イテレーション7処理分
+- done: #035 アパレルPLM(UA6dFrit)、#036 ペンテスト(f1rwQmt6)、#037 ビルドパック(PsZ2P0Yb)、#038 AI画像動画(rga0ErjW)
+- 残pending: ヘルスケアSaaS+代理店(qsAxDnUr)、ファンド投資管理(wbwy2jWc)、ファッションAIビジュアル(JWPZd7fS)、Ag-tech(nvqesxbd)、トレーディングアルゴ(8FLDQTHD)、デジタル代理店(ngTAGF3W)
