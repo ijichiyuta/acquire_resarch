@@ -8,11 +8,11 @@
 - /startup/H8lhr66seCQChOq4YbgjFN0EBTi2/Kb2Qpk6EWExkBYodMLO5 | 小売店向け顧客エンゲージメント | $1.2M/$211k | $1.3M | done #012 見送り
 - /startup/crFgXi79noYVLzpzbsFUFioxaUi1/ygFePVsvf2tX16EYV5Ac | AIカスタマーサービス | $484k/$40k | $1.3M | done #013 スキップ
 - /startup/zRaHq4jQ4HXBfGiHAB3uUH75gUN2/rAnCcYdPoBRxm2OxxqiG | 集団訴訟和解金アプリ | $1.1M/$805k | $2.8M | done #014 スキップ
-- /startup/rPp24VTssgVRoPN9OAc1PZPVtz72/y3dxJpeDv021nU7ONJ7J | Slack営業会話分析 | $40k/$27k | $137k | pending
-- /startup/UqAncAy2V4hvgU33lIOvPnpH1jf1/LaPSuQt4RPSP2is9FXNu | AI画像生成PF（GPU込み） | $160k/$76k | $365k | pending
-- /startup/R9MLgv52MZZn4NRfsSHe0DCfY7M2/RfwIrrhRPOtTn6owKgis | 女性向けメディアブランド | $249k/$126k | $378k | pending
-- /startup/FWbFkG2po7evMkLh2yKDlGpIooI3/SePy0fpR1lilQiecPd3W | 自己啓発学習アプリ | $1M/$250k | $5M | pending
-- /startup/WlzEqMIy5gXTaGrjbS36gdKNDT93/AVFuydD7yRqoZudYVsVf | UK GLP-1オンライン薬局 | $3M/$182k | $3M | pending（ドメイン降り見込みだがデータ行として取る）
+- /startup/rPp24VTssgVRoPN9OAc1PZPVtz72/y3dxJpeDv021nU7ONJ7J | Slack営業会話分析 | $40k/$27k | $137k | done #015 スキップ
+- /startup/UqAncAy2V4hvgU33lIOvPnpH1jf1/LaPSuQt4RPSP2is9FXNu | AI画像生成PF（GPU込み） | $160k/$76k | $365k | done #016 スキップ
+- /startup/R9MLgv52MZZn4NRfsSHe0DCfY7M2/RfwIrrhRPOtTn6owKgis | 女性向けメディアブランド | $249k/$126k | $378k | done #017 スキップ
+- /startup/FWbFkG2po7evMkLh2yKDlGpIooI3/SePy0fpR1lilQiecPd3W | 自己啓発学習アプリ | $1M/$250k | $5M | done #018 スキップ
+- /startup/WlzEqMIy5gXTaGrjbS36gdKNDT93/AVFuydD7yRqoZudYVsVf | UK GLP-1オンライン薬局 | $3M/$182k | $3M | done #019 スキップ（ドメイン）
 - /startup/xkdFhTiYO3V0JhgvqYAgwr9TkxE3/oFNSatezTKMgEgn9TXCA | サプリEC | $6.1M/$1.1M | $5.7M | pending（薬機法系・低優先）
 
 ## カード段階でスキップ（詳細を開かない。理由つき）
