@@ -38,3 +38,12 @@
 - /startup/ZiOJlEbU2eSA4c31Mi9S468Oh5h1/5pLxqOcUW3dLFF35csbo | データ分析コンサル | $90k/$85k | $70k | done #025 スキップ
 - /startup/IafR67ENRoYBICFyOxWtUetuXOy2/zml0Q62UZFUUiFHVyK2h | AI CS小型 | $89k/-$13k | $90k | done #026 スキップ
 - カード段階スキップ追加: スポーツ栄養ドロップシップ $52k/$0（利益ゼロEC）、Newsletter-to-eReader $620
+
+## 追加収穫（イテレーション5・検索「property management」）
+
+- /startup/QdNBDyPjCYf9B2XHPs8xfCpllvE3/rdJIcF9JpprNZkW9PaYl | モール管理SaaS | $2.3M/$393k | $6.1M | done #027 見送り
+- /startup/528HVArmNMfC9PYfYd4SCTPqjtG3/OOpCZdyf0gBbIXnWr9r1 | 物件点検・作業指示 | $105k/$75k | $350k | done #028 見送り
+- /startup/VMd4y04pEdRu5Gbo5BNrVmqsMID3/9AjE9Q3SAA6L6iXoWWrS | 修繕ソフト（内製） | $1.2M/$150k | $150k | done #029 スキップ
+- /startup/cmk3ilZpS3RTDxSUSaFdiskGmF53/nhyZpHptfJwI1cRQQRVg | ナイジェリアPMS | $80k/$60k | $210k | done #030 スキップ
+- /startup/jDr4waqARRYlWW8Y3VnRPtCqNlu2/ngTAGF3W7ifLEzM4pOVY | デジタル代理店10年 | $187k/$64k | $96k | pending（属人系・低優先）
+- 次の検索キーワード候補: bookkeeping / logistics / compliance / clinic / field service / dental / legal / HOA / church / gym
