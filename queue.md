@@ -47,3 +47,16 @@
 - /startup/cmk3ilZpS3RTDxSUSaFdiskGmF53/nhyZpHptfJwI1cRQQRVg | ナイジェリアPMS | $80k/$60k | $210k | done #030 スキップ
 - /startup/jDr4waqARRYlWW8Y3VnRPtCqNlu2/ngTAGF3W7ifLEzM4pOVY | デジタル代理店10年 | $187k/$64k | $96k | pending（属人系・低優先）
 - 次の検索キーワード候補: bookkeeping / logistics / compliance / clinic / field service / dental / legal / HOA / church / gym
+
+## 追加収穫（イテレーション6・検索 compliance/clinic/logistics/legal/gym/restaurant）
+
+- done: #031 州内学費(pX0WpK3O)、#032 MSPバックアップ(tfsm0Ahy)、#033 歯科AI(CG8xZ3XV)、#034 TPRM(pJeOV3rm)
+- /startup/I7WtpzkleyMJp2J2xoZi9w7HoGx1/UA6dFritqKUJF7KCUlVD | アパレル向けAI PLM | $142k/$28k | $300k | pending
+- /startup/OdvIPLGUhZgR4GWG9ag385RyvzB2/f1rwQmt6UqV9d5snB8mI | B2Bペンテスト（コンプラ特化） | $263k/$65k | $236k | pending
+- /startup/bUAgsT1w36MdZC8N8Y3PVYtZYSG3/qsAxDnUrGH9t1dnwZkyu | ヘルスケアSaaS+代理店 | $1.1M/$377k | $1.2M | pending
+- /startup/r4TcJjROfATAay92Ke7Y6yQjBX12/rga0ErjWb6nJZltc5BWm | AI画像動画スイート 12,900課金 | $607k/$298k | $1.4M | pending
+- /startup/FDI2BGh8LEMWhutzFnPKjgFwfiZ2/PsZ2P0Ybo1mvaUcFNoTx | AI B2Bプラットフォームマーケットプレイス | $95k/$86k | $50k | pending
+- /startup/JSyVibmf0WYhYWewfUEr4EvaHTT2/wbwy2jWcwBaNplk4hkvu | ファンドマネージャー向け投資管理 | $99k/-$24k | $320k | pending（金融ドメイン注意）
+- /startup/m2VbW8WGJxazesQRudC30asFlzC2/GuUmrecKWmWtlTUBcL4b | ヘルステック開発+EHR統合 | $3.3M/$888k | $3.3M | pending（規模外・低優先）
+- /startup/FUkuHyuaXkcdtUpf7NqjXRJtzW02/JWPZd7fSnJj33TJWaIuA | ファッションB2B AIビジュアル | $100k/$70k | $247k | pending
+- カード段階スキップ: med spaコンテンツ $54k/-$28k、クリニックネットワーク $60k/$30k（怪）、スキンケアEC、GLP-1(済)、ウェルネスEC $2.6M
