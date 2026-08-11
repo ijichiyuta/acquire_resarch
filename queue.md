@@ -30,3 +30,11 @@
 - /startup/BLpkQCNu2ZhI42YlmUrLh1ZmJsS2/nvqesxbd3P7LWlSADofq | アフリカ農家Ag-tech/Fintech | $9.1M/$2.9M | $12.8M | pending（規模外だがデータ行候補・低優先）
 - /startup/GHYkTTqJ5Ce5l9524nitCtE8LqE2/8FLDQTHD8HxUSyi95vzp | トレーディングアルゴ | $58k/$57k | $190k | pending（投資助言ドメイン・低優先）
 - カード段階スキップ追加: 田舎求人PF $25k/$3k、テスト済みEC店 $200k/$8k（利益0.24x表記で不審）
+
+## 追加収穫（イテレーション4）
+
+- /startup/iAQ7KHQSumchENwzNjlflWT4I5p2/3vYgvw99KnWjbD1IigDl | No-Code AIエージェント | $64k/$55k | $255k | done #023 スキップ
+- /startup/knTQCyk7E0PrC0UGJsQ1IXkwTEa2/t8uPrYDRTcJOWuOEpfaO | トレーダー向けPF | $148k/$120k | $425k | done #024 スキップ
+- /startup/ZiOJlEbU2eSA4c31Mi9S468Oh5h1/5pLxqOcUW3dLFF35csbo | データ分析コンサル | $90k/$85k | $70k | done #025 スキップ
+- /startup/IafR67ENRoYBICFyOxWtUetuXOy2/zml0Q62UZFUUiFHVyK2h | AI CS小型 | $89k/-$13k | $90k | done #026 スキップ
+- カード段階スキップ追加: スポーツ栄養ドロップシップ $52k/$0（利益ゼロEC）、Newsletter-to-eReader $620
